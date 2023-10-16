@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 10.0.3.20 interno
+=======
+>>>>>>> parent of e7e90ae (Nova linha no arqv hosts, branch config1_repo2)
 127.0.0.1	localhost
 127.0.1.1	debian
 
@@ -8,6 +11,9 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 
 Nova linha adicionda
+<<<<<<< HEAD
 10.0.3.15 debian9
 
 10.0.3.25 intranet
+=======
+>>>>>>> parent of e7e90ae (Nova linha no arqv hosts, branch config1_repo2)
